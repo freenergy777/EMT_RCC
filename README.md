@@ -1,4 +1,4 @@
-# Renal Cell Carcinoma Data analysis
+# Renal Cell Carcinoma Data analysis for epithelial-mesenchymal transition (EMT)
 
 
 ## Repository Structure
